@@ -9,13 +9,17 @@ This repository contains a set of examples illustrating various approaches to wo
 The first two examples showcase simple login forms. These forms have been created individually using the useState and useRef hooks.
 
 - [Login Form 1 State Based Form](/src/components/StateLogin.jsx)
+- This form logic is preferred for key stroke validation-based.
+
 - [Login Form 2 Ref Based Form](/src/components/RefLogin.jsx)
+- This form logic is preferred for validating on submission.
 
 ### 2. Signup Form
 
 The third example represents a more intricate signup form. This form employs the FormData browser method for a more straightforward and dynamic approach when dealing with complex forms.
 
 - [Signup Form](/src/components/Signup.jsx)
+- The preferred approach for form validation involves a combination of default HTML methods and custom methods.
 
 ## How to Use
 

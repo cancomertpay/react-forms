@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 export default function StateLogin() {
+  // This form logic is preferred for key stroke validation-based.
   const [enteredValues, setEnteredValues] = useState({
     email: "",
     password: "",

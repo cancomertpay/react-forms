@@ -45,7 +45,7 @@ function App() {
         <p>
           These are three examples of{" "}
           <span>how to work with forms using React</span>. The main goal here is
-          to build the best user interface logic. I used three different
+          to build the best user experince logic. I used three different
           methods, which you can see by clicking the buttons below. <br />{" "}
           <br /> The first and second examples are login forms. I created them
           separately using the <span>useState</span> and <span>useRef</span>{" "}
